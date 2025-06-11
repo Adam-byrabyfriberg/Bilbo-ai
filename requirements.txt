@@ -1,0 +1,8 @@
+# --- Fil: requirements.txt ---
+fastapi
+uvicorn
+requests
+beautifulsoup4
+sentence-transformers
+torch
+python-dotenv
